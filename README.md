@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Nisrat Parbin
 
 
+   ## A passionate software Engineer
 
-A passionate software Engineer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently working on Myself
