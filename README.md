@@ -7,7 +7,7 @@
 
 - 📫 Contact me *nisaratparbin6@gmail.com*
 
-- 📄 My resume (nisrar_parbin.resume.pdf)
+- 📄 My resume <a href="resume">nisrat_parbin.resume.pdf</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
