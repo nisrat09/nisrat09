@@ -20,7 +20,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/nisaratparw
 "> 
-        <img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" alt="Buy Me a Coffee">
+  <img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" alt="Buy Me a Coffee" width="30px">
         Buy Me a Coffee
     </a></p><br><br>
 </p><br><br>
