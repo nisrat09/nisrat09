@@ -35,6 +35,6 @@
             onmouseup="this.style.transform='scale(1)'"
         >
     </a>
-</p><br><br>
+</p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisrat09&" alt="nisrat09" /></p>
