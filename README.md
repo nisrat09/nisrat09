@@ -24,10 +24,10 @@
             src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" 
             alt="Buy Me a Coffee" 
             style="
-                width: 200px; /* Set the width of the button image */
-                height: auto; /* Maintain the aspect ratio */
-                cursor: pointer; /* Change cursor to pointer on hover */
-                transition: transform 0.3s ease; /* Smooth transform on hover */
+                width: 60px;
+                height: auto; 
+                cursor: pointer;
+                transition: transform 0.3s ease;
             "
             onmouseover="this.style.transform='scale(1.05)'" 
             onmouseout="this.style.transform='scale(1)'" 
