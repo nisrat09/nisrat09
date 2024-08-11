@@ -19,6 +19,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/nisaratparw
-"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" height="50" width="210" alt="Viwe" /></a></p><br><br>
+"> <img align=" <img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" alt="Buy Me a Coffee">
+    </a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisrat09&" alt="nisrat09" /></p>
