@@ -1,5 +1,4 @@
-<a href="https://buymeacoffee.com/nisaratparw
-""</a>
+
 <h1 align="center">Hi 👋, I'm Nisrat parbin</h1>
 <h3 align="center">A passionate software Engineer</h3>
 
